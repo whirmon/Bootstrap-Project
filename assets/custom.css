@@ -1,4 +1,4 @@
-@media (min-width: 576px) { 
+@media (max-width: 767px) { 
     #custom_PJ-01{
         background-image: url(./img/stage.jpg);
         background-repeat: no-repeat;
@@ -7,6 +7,9 @@
         background-size: cover;
         padding: 0;
         margin: 0;
+    }
+    #custom_PJ-02{
+        max-width: 90%;
     }
 }
 
@@ -20,6 +23,9 @@
         padding: 0;
         margin: 0;
     }
+    #custom_PJ-02{
+        max-width: 50%;
+    }
 }
 
 @media (min-width: 992px) {
@@ -31,6 +37,9 @@
         background-size: cover;
         padding: 5% 15% 10% 5%;
         margin: 0;
+    }
+    #custom_PJ-02{
+        max-width: 50%;
     }
 }
 
@@ -44,6 +53,9 @@
         padding: 5% 15% 10% 5%;
         margin: 0;
     }
+    #custom_PJ-02{
+        max-width: 50%;
+    }
 }
 @media (min-width: 1400px) {
     #custom_PJ-01{
@@ -54,5 +66,8 @@
         background-size: cover;
         padding: 5% 15% 10% 5%;
         margin: 0;
+    }
+    #custom_PJ-02{
+        max-width: 50%;
     }
 }
