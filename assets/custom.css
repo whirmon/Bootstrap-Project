@@ -1,0 +1,58 @@
+@media (min-width: 576px) { 
+    #custom_PJ-01{
+        background-image: url(./img/stage.jpg);
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-position: top;
+        background-size: cover;
+        padding: 0;
+        margin: 0;
+    }
+}
+
+@media (min-width: 768px) {
+    #custom_PJ-01{
+        background-image: url(./img/stage.jpg);
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-position: top;
+        background-size: cover;
+        padding: 0;
+        margin: 0;
+    }
+}
+
+@media (min-width: 992px) {
+    #custom_PJ-01{
+        background-image: url(./img/stage.jpg);
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-position: top;
+        background-size: cover;
+        padding: 5% 15% 10% 5%;
+        margin: 0;
+    }
+}
+
+@media (min-width: 1200px) {
+    #custom_PJ-01{
+        background-image: url(./img/stage.jpg);
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-position: top;
+        background-size: cover;
+        padding: 5% 15% 10% 5%;
+        margin: 0;
+    }
+}
+@media (min-width: 1400px) {
+    #custom_PJ-01{
+        background-image: url(./img/stage.jpg);
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-position: top;
+        background-size: cover;
+        padding: 5% 15% 10% 5%;
+        margin: 0;
+    }
+}
